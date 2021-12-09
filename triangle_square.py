@@ -1,3 +1,5 @@
+# this script can get the three lengthes of one triangle then calculate the square
+# the way to do this is Heron's formula
 from sys import argv
 script, a, b, c = argv
 a = float(a)
