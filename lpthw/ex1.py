@@ -1,3 +1,4 @@
+# in this exercise I don't want write many English comments for each line, it's just printing a lot of strings
 print("hello world!")
 print("Hello Again.")
 print("I like typing this.")
