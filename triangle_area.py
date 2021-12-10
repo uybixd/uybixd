@@ -9,4 +9,4 @@ p = (a + b + c) * 0.5
 
 import cmath
 s = round(cmath.sqrt(p * (p - a) * (p - b) * (p - c)).real, 4)
-print(f"The square of this triangle is {s}.")
+print(f"The area of this triangle is {s}.")
