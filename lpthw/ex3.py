@@ -28,5 +28,4 @@ print("Is it greater or equal?", 5 >= -2)
 # 在 screen 上 display "Is it less or equal?", 在后面judge 5 是否 <= -2 True or False
 print("Is it less or equal?", 5 <= -2)
 print(25 % 3)
-# 下面这行和练习3无关，单纯的为了讨好马赫双。
-print('My girlfriend is the most attractive wonman alive.')
+
