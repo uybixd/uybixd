@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uybixd
-- 👀 I’m interested in code and food
+- 👀 I’m interested in programming and food.
 - 🌱 I’m currently learning python and English.
 
 <!---
